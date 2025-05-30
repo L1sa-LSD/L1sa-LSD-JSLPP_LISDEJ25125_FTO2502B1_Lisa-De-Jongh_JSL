@@ -7,28 +7,16 @@ This Kanban application enhances productivity with a user-friendly interface. It
 
 ## The Aim Of The Project
 
-- Implement a theme toggle for dark and light modes
+- Implement a theme toggle for dark and light modes, Manages the light/dark theme switching for the application.
 
-- Create a responsive sidebar with full mobile compatibility
+- Create a responsive sidebar with full mobile compatibility,  Controls the visibility of a modal that acts as a simplified sidebar for mobile views.
 
-- Store and persist task data using local storage
+- Create a interactive side bar for desktops
+
+- Store and persist task data using local storage, to store information 
 
 - Allow task editing and deletion with real-time UI updates
 
-
-## Creation
-
-Contributions are always welcome!
-
-`Data Persistence:` 
-
-`Task Editing & Deletion:`
-
-`Sidebar Interaction:`
-
-`Mobile Sidebar (Menu) Functionality:`
-
-`Theme Toggle (Dark/Light Mode):`
 
 ## Presentation 
 
