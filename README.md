@@ -34,7 +34,7 @@ Contributions are always welcome!
 
 Veed Presentation link 
 
-[Presentation](https://github.com/matiassingers/awesome-readme)
+[Presentation](https://www.veed.io/view/bce700a9-e8a5-45af-b166-3c994f28dd5f?panel=share)
 
 ## Deploment link
 
